@@ -2,3 +2,4 @@ build
 *.class
 build.xml
 dist
+/nbproject/private/
