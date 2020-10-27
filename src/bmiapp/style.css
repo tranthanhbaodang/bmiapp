@@ -24,6 +24,6 @@ Button{
     -fx-text-fill: green;
     -fx-font-weigh: bold;
     -fx-stroke-width: 1;
-    -fx-stroke: gold;
+    -fx-stroke: red;
 }
 
