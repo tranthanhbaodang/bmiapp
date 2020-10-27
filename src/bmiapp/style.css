@@ -17,13 +17,13 @@ Text{
 
 GridPane{
     -fx-background-color: lightcyan;
-    -fx-padding: 15;
+    -fx-padding: 13;
 }
 Button{
     -fx-background-color: lightsalmon;
     -fx-text-fill: green;
     -fx-font-weigh: bold;
     -fx-stroke-width: 1;
-    -fx-stroke: red;
+    -fx-stroke: green;
 }
 
